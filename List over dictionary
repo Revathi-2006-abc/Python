@@ -1,0 +1,11 @@
+a={"Name":"Revathi","CGPA":7.5}
+a["dept"]="CSE"
+for i in a.items():
+    print(i)
+for i in a.items():
+    print(i)
+for i in a.keys():
+    print(i)
+for i in a.values():
+    print(i)
+print(a["Name"])
